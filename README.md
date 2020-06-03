@@ -1,3 +1,4 @@
+#这个库是一个很棒的地方，可以让你随时了解 Node 世界，并在使用时了解最佳实践。拥有 40k Star 和 133 位贡献者，这个库几乎每天都有更新。
 # [HTML5 Boilerplate](https://html5boilerplate.com/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
